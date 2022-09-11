@@ -10,9 +10,7 @@
 </p>
 
 - 👨🏻‍💻  &nbsp;I’m an<img src="https://github.com/nisrulz/nisrulz/blob/master/img/android.png" height=20 />and <img src="https://github.com/subhipandey/subhipandey/blob/master/img/web.png" height=20 />Developer.
-- 👨🏻‍🔬  &nbsp;I am currently brushing my Java Skills and Learning Kotlin side by side exploring Android Ecosystem.
-- 📝  &nbsp;I am preparing to write tech blog and recently setup my [Blog](https://subhipandey.hashnode.dev)
-- ⚡️  &nbsp;Fun fact about me: I love playing Video Games🕹,reading books.
+- 👨🏻‍🔬  &nbsp;I am currently exploring web technologies and side by side exploring Android Ecosystem.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhipandey&layout=compact)](https://github.com/subhipandey/github-readme-stats)
 
