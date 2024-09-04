@@ -11,8 +11,8 @@
 
 - 👨🏻‍💻  &nbsp;I’m an<img src="https://github.com/nisrulz/nisrulz/blob/master/img/android.png" height=20 />and <img src="https://github.com/subhipandey/subhipandey/blob/master/img/web.png" height=20 />Developer.
 - 👨🏻‍🔬  &nbsp;I am currently exploring web technologies and side by side exploring Android Ecosystem.
+  
 
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhipandey&theme=transparent" alt="Profile Details">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhipandey&layout=compact)](https://github.com/subhipandey/github-readme-stats)
 
 
