@@ -13,6 +13,6 @@
 - 👨🏻‍🔬  &nbsp;I am currently exploring web technologies and side by side exploring Android Ecosystem.
 
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhipandey&theme=transparent" alt="Profile Details">
- <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhipandey&theme=transparent">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhipandey&layout=compact)](https://github.com/subhipandey/github-readme-stats)
 
 
